@@ -1,0 +1,4 @@
+projectionMethod.cpp is main C++ file .I used projection method for solving the Navier Stokes equation in Lid driven cavity . Where top plate is moving in right direction.
+Use "g++ projectionMethod.cpp" in linux terminal to compile the program.
+Then excute the "./a.out".
+Use vorticity_plot file in Gnuplot for plotting the vorticity plot.
